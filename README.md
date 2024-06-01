@@ -1,0 +1,1 @@
+This is my first CREWAI project based on desingning agents to fetch news using chatgpt openapi key.The main task of them is to fetch news according to the topic given to them and having check by the senior editor
